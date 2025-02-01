@@ -2,17 +2,6 @@
 
 This is a hotel booking system built with PHP and JavaScript. The system allows users to browse available rooms, make bookings, and manage their reservations. Administrators can manage hotels, rooms, and bookings through an admin panel.
 
-## Project Structure
-
-Workspace
-(rerun without)
-Collecting workspace information
-
-Sure, here is the updated README.md file:
-
-.DS_Store 404.php about.php admin-panel/ admins/ bookings-admins/ hotels-admins/ index.php layouts/ rooms-admins/ styles/ auth/ login.php logout.php register.php config/ config.php contact.php includes/ footer.php header.php index.php js/ .DS_Store bootstrap-datepicker.js bootstrap.min.js google-map.js jquery-3.2.1.min.js jquery-migrate-3.0.1.min.js jquery.animateNumber.min.js jquery.easing.1.3.js ... README.md rooms/ pay.php room-single.php rooms.php services.php users/
-
-
 
 ## Features
 
